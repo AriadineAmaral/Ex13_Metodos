@@ -1,4 +1,4 @@
-# Ex13_Metodos
+# Lista_V_Metodos
 #### Exercício desenvolvido para a faculdade
 
 ## Requisitos:
