@@ -1,7 +1,7 @@
 # Ex13_Metodos
 #### Exercício desenvolvido para a faculdade
 
-## Requisitos
+## Requisitos:
 
 ### Parte I - Preenchendo os vetores
 
